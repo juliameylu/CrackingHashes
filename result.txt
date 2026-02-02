@@ -1,0 +1,120 @@
+User: Bilbo
+Algo: 2b
+Workfactor: 8
+Salt: J9FW66ZdPI2nrIMcOxFYI.
+Hash: qx268uZn.ajhymLP/YHaAsfBGP3Fnmq
+Password: welcome
+Time taken: 190.449688911438 s
+
+User: Gandalf
+Algo: 2b
+Workfactor: 8
+Salt: J9FW66ZdPI2nrIMcOxFYI.
+Hash: q2PW6mqALUl2/uFvV9OFNPmHGNPa6YC
+Password: wizard
+Time taken: 214.11308789253235 s
+
+User: Thorin
+Algo: 2b
+Workfactor: 8
+Salt: J9FW66ZdPI2nrIMcOxFYI.
+Hash: 6B7jUcPdnqJz4tIUwKBu8lNMs5NdT9q
+Password: diamond
+Time taken: 200.7948009967804 s
+
+User: Fili
+Algo: 2b
+Workfactor: 9
+Salt: M9xNRFBDn0pUkPKIVCSBzu
+Hash: wNDDNTMWlvn7lezPr8IwVUsJbys3YZm
+Password: desire
+Time taken: 372.95308089256287 s
+
+User: Kili
+Algo: 2b
+Workfactor: 9
+Salt: M9xNRFBDn0pUkPKIVCSBzu
+Hash: PD2bsU1q8yZPlgSdQXIBILSMCbdE4Im
+Password: ossify
+Time taken: 412.31594491004944 s
+
+User: Balin
+Algo: 2b
+Workfactor: 10
+Salt: xGKjb94iwmlth954hEaw3O
+Hash: 3YmtDO/mEFLIO0a0xLK1vL79LA73Gom
+Password: hangout
+Time taken: 447.2188711166382 s
+
+User: Dwalin
+Algo: 2b
+Workfactor: 10
+Salt: xGKjb94iwmlth954hEaw3O
+Hash: FxNMF64erUqDNj6TMMKVDcsETsKK5be
+Password: drossy
+Time taken: 71.62449193000793 s
+
+User: Oin
+Algo: 2b
+Workfactor: 10
+Salt: xGKjb94iwmlth954hEaw3O
+Hash: cXR2H2PRHCgo98mjS11UIrVZLKxyABK
+Password: ispaghul
+Time taken: 132.52304887771606 s
+
+User: Gloin
+Algo: 2b
+Workfactor: 11
+Salt: /8UByex2ktrWATZOBLZ0Du
+Hash: AXTQl4mWX1hfSjliCvFfGH7w1tX5/3q
+Password: oversave
+Time taken: 2037.1093199253082 s
+
+User: Dori
+Algo: 2b
+Workfactor: 11
+Salt: /8UByex2ktrWATZOBLZ0Du
+Hash: b5AmZeqtn7kv/3NCWBrDaRCFahGYyiq
+Password: indoxylic
+Time taken: 1957.184319972992 s
+
+User: Nori
+Algo: 2b
+Workfactor: 11
+Salt: /8UByex2ktrWATZOBLZ0Du
+Hash: ER3Ee1GdP6f30TVIXoEhvhQDwghaU12
+Password: swagsman
+Time taken: 1874.4774096012115 s
+
+User: Ori
+Algo: 2b
+Workfactor: 12
+Salt: rMeWZtAVcGHLEiDNeKCz8O
+Hash: iERmh0dh8AiNcf7ON3O3P0GWTABKh0O
+Password: airway
+Time taken: 935.8033640384674 s
+
+User: Bifur
+Algo: 2b
+Workfactor: 12
+Salt: rMeWZtAVcGHLEiDNeKCz8O
+Hash: MoFL0k33O8Lcq33f6AznAZ/cL1LAOyK
+Password: corrosible
+Time taken: 1272.242742061615 s
+
+User: Bofur
+Algo: 2b
+Workfactor: 12
+Salt: rMeWZtAVcGHLEiDNeKCz8O
+Hash: se2KNe821.l2h5eLffzWoP01DlQb72O
+Password: libellate
+Time taken: 2077.0601971149445 s
+
+User: Durin
+Algo: 2b
+Workfactor: 13
+Salt: 6ypcazOOkUT/a7EwMuIjH.
+Hash: qbdqmHPDAC9B5c37RT9gEw18BX6FOay
+Password: purrone
+Time taken: 472.72690415382385 s
+
